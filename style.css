@@ -3,3 +3,10 @@ form {
     justify-content: center;
     padding: 220px;
 }
+
+fieldset {
+    width: 100px;
+    text-align: center;
+    padding: 30px;
+    background-color: #f3f0ec;
+}
