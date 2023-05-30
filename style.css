@@ -10,3 +10,11 @@ fieldset {
     padding: 30px;
     background-color: #f3f0ec;
 }
+
+button {
+    display: inline-block;
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(to left, yellowgreen, yellow);
+    font-weight: bold;
+  }
