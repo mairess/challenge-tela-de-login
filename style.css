@@ -18,3 +18,9 @@ button {
     background-image: linear-gradient(to left, yellowgreen, yellow);
     font-weight: bold;
   }
+
+  a {
+    text-decoration: none;
+    font-size: 13px;
+  }
+  
